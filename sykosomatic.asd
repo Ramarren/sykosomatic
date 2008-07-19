@@ -23,6 +23,12 @@
 ;;;;
 
 (asdf:defsystem #:sykosomatic
+  :name "SykoSoMaTIC"
+  :author "Josh M <sykopomp@gmail.com>"
+  :version "nil"
+  :maintainer "Josh M <sykopomp@gmail.com>"
+  :description "Sykopomp's Sodomizingly Masterful Text in Console"
+  :long-description "lolwut"
   :depends-on (#:cl-ppcre #:cl-store)
   :components ((:file "packages")
 	       (:file "config")
