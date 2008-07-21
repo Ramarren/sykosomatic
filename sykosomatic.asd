@@ -20,7 +20,7 @@
   :author "Josh M <sykopomp@gmail.com>"
   :version "nil"
   :maintainer "Josh M <sykopomp@gmail.com>"
-  :description "Sykopomp's Sodomizingly Masterful Text in Console"
+  :description "Sykopomp's Somewhat Masterful Text in Console"
   :long-description "A heavily-extensible, simple, text-adventure engine."
   :depends-on (#:cl-ppcre #:cl-store)
   :components ((:file "packages")
